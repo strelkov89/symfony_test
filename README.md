@@ -1,1 +1,1 @@
-# symfony_test
+# Тестовое задание. Symfony.
